@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4079137 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1687184169518') format('woff2'),
+       url('iconfont.woff?t=1687184169518') format('woff'),
+       url('iconfont.ttf?t=1687184169518') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wode:before {
+  content: "\e621";
+}
+
+.icon-icon-test:before {
+  content: "\e661";
+}
+
+.icon-icon-test1:before {
+  content: "\e667";
+}
+
+.icon-icon-test2:before {
+  content: "\e668";
+}
+
+.icon-AIROBOT:before {
+  content: "\e62f";
+}
+
+.icon-user:before {
+  content: "\e6eb";
+}
+
+.icon-robot:before {
+  content: "\e66e";
+}
+
+.icon-touxiang:before {
+  content: "\e609";
+}
+
+.icon-robot1:before {
+  content: "\e600";
+}
+
+.icon-robot-o:before {
+  content: "\e989";
+}
+
+.icon-1_user4:before {
+  content: "\e671";
+}
+
+.icon-1_user3:before {
+  content: "\e672";
+}
+
+.icon-1_user6:before {
+  content: "\e673";
+}
+
+.icon-1_user10:before {
+  content: "\e674";
+}
+

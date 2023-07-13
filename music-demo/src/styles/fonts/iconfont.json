@@ -1,0 +1,107 @@
+{
+  "id": "4079137",
+  "name": "网易云音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6003705",
+      "name": "我的2",
+      "font_class": "wode",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1903298",
+      "name": "头像 女孩",
+      "font_class": "icon-test",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "1904067",
+      "name": "头像 男孩",
+      "font_class": "icon-test1",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1904339",
+      "name": "头像 男孩",
+      "font_class": "icon-test2",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "6005727",
+      "name": "AIROBOT",
+      "font_class": "AIROBOT",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "8614440",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "9080929",
+      "name": "robot",
+      "font_class": "robot",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "11978525",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13069456",
+      "name": "robot",
+      "font_class": "robot1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "17742244",
+      "name": "robot-o",
+      "font_class": "robot-o",
+      "unicode": "e989",
+      "unicode_decimal": 59785
+    },
+    {
+      "icon_id": "20762449",
+      "name": "1_user4",
+      "font_class": "1_user4",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "20762452",
+      "name": "1_user3",
+      "font_class": "1_user3",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "20762454",
+      "name": "1_user6",
+      "font_class": "1_user6",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "20762457",
+      "name": "1_user10",
+      "font_class": "1_user10",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    }
+  ]
+}

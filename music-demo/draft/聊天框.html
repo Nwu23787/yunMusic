@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="../src/mobile/flexible.js"></script>
+    <link rel="stylesheet" href="../src/styles/reset.css">
+    <link rel="stylesheet" href="../src/styles/fonts/iconfont.css">
+    <style>
+        .icon-user {
+            font-size: 33px !important;
+            float: right;
+            margin-right: 10px;
+        }
+
+        body {
+            font-family: 'Microsoft YaHei';
+        }
+
+        .main {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 55px;
+            bottom: 55px;
+            background-color: #f5f2f2;
+            box-sizing: border-box;
+            padding: 10px 0;
+            overflow: hidden;
+        }
+
+        .talk_list {
+            position: absolute;
+            width: 100%;
+            left: 0px;
+            top: 0px;
+        }
+
+        .talk_list li {
+            overflow: hidden;
+            margin: 20px 0px 30px;
+        }
+
+        .talk_list .right_word img {
+            float: right;
+            margin-right: 20px;
+        }
+
+        .talk_list .right_word span {
+            float: right;
+            background-color: #fff;
+            padding: 10px 15px;
+            max-width: 290px;
+            border-radius: 12px;
+            font-size: 16px;
+            color: #000;
+            margin-right: 13px;
+            position: relative;
+            line-height: 24px;
+        }
+
+        .talk_list .right_word span:before {
+            content: '';
+            position: absolute;
+            right: -8px;
+            top: 3px;
+            width: 13px;
+            height: 12px;
+            background: url('./img/corner02.png') no-repeat;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <ul class="talk_list" style="top: 0px;">
+            <li class="right_word">
+                <i class="iconfont icon-user"></i> <span>你好呀</span>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html>
